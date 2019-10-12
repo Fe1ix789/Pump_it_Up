@@ -70,7 +70,7 @@ The direct link to the competition is:
 https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/
 
 ## Jupyter Notebook ## 
-(Please allow images to load)
+(Please allow the following large images to load)
 
 <img src="https://github.com/Fe1ix789/MBD/blob/master/Pump_it_Up_Project/Slide1.png?raw=true" width=fill>
 <img src="https://github.com/Fe1ix789/MBD/blob/master/Pump_it_Up_Project/Slide2.png?raw=true" width=fill>
